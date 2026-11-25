@@ -176,6 +176,17 @@ The detailed 75-page SRS prepared during the project, covering system requiremen
 
 [View System Requirements Specification (SRS)](Premier_Club_SRS.pdf)
 
+## Process Diagrams
+
+### Use Case Diagram
+![Use Case Diagram](diagrams/Use_Case_Diagram.png)
+
+### Membership Application Swimlane Diagram
+![Membership Application Swimlane](diagrams/Membership_Application_Swimlane.png)
+
+### Member Login Process Flowchart
+![Member Login Process Flowchart](diagrams/Member_Login_Process_Flowchart.png)
+
 ## Skills Demonstrated
 
 - Business Requirements Analysis
