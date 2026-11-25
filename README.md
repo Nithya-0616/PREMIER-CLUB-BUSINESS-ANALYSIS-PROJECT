@@ -1,2 +1,1 @@
-# PREMIER-CLUB-BUSINESS-ANALYSIS-PROJECT
-Business Analysis internship project focused on the Premier Club Website, covering business requirements analysis, functional and non-functional requirements, user stories, acceptance criteria, use cases, process flows, and System Requirements Specification (SRS) documentation.
+Business Analysis internship project based on the Premier Club Website BRD, involving requirements analysis and preparation of a comprehensive 75-page System Requirements Specification (SRS) covering user stories, acceptance criteria, use cases, process flows and functional and non-functional requirements.
